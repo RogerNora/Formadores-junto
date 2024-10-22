@@ -3,7 +3,7 @@ body{
     background-color: black;
 }
 section{
-    background-image: url("fundo estrela.webp");
+    background-image: url("fundo estrela.png");
     background-size: cover;
     padding-top: 20px;
     padding-bottom: 50px;
