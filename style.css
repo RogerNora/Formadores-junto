@@ -5,6 +5,8 @@ body{
 section{
     background-image: url("fundo estrela.png");
     background-size: cover;
-    padding-top: 20px;
-    padding-bottom: 50px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
