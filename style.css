@@ -2,3 +2,6 @@ body{
     color: darkgoldenrod;
     background-color: black;
 }
+section{
+    background-image: url("fundo estrela.webp")
+}
