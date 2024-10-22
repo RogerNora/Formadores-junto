@@ -4,4 +4,7 @@ body{
 }
 section{
     background-image: url("fundo estrela.webp");
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
