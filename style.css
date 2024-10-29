@@ -31,6 +31,7 @@ img{
     overflow-x: auto;
     gap: 20px;
     justify-content: center;
+    margin-bottom: 3%;
 }
 
 h2 {
