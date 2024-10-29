@@ -28,4 +28,5 @@ img{
 
 .chamada_video{
     display: flex;
+    gap: 20px;
 }
