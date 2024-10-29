@@ -28,5 +28,6 @@ img{
 
 .chamada_video{
     display: flex;
+    overflow-x: auto;
     gap: 20px;
 }
