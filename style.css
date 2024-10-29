@@ -20,3 +20,12 @@ header {
     margin-right: 5%;
     
 }
+
+img{
+    width: 150px;
+    height: 200px;
+}
+
+.chamada_video{
+    display: flex;
+}
