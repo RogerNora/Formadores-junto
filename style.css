@@ -19,8 +19,7 @@ header {
 }
 
 .chamada_texto{
-    margin-right: 3%;
-    
+    margin-right: 3%;  
 }
 
 .filmes img{
@@ -39,10 +38,8 @@ header {
     gap: 20px;
     justify-content: center;
     padding-bottom: 3%;
-    padding-top: 15px;
 }
 
 h2 {
     text-align: center;
-    padding-top: 15px;
 }
