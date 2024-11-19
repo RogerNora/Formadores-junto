@@ -33,7 +33,7 @@ img:hover{
     border: solid 2px white;
 }
 
-.chamada_video{
+.filmes_video{
     display: flex;
     overflow-x: auto;
     gap: 20px;
