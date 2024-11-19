@@ -2,15 +2,15 @@ body{
     color: darkgoldenrod;
     background-color: black;
 }
-section{
+.chamada{
     background-image: url("fundo estrela.png");
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 header {
