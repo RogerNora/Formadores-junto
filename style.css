@@ -1,7 +1,7 @@
 body{
     color: darkgoldenrod;
     background-color: black;
-    font-family: sans-serif;
+    font-family: "Turret Road", sans-serif;
 }
 .chamada{
     background-image: url("fundo estrela.png");
@@ -17,6 +17,7 @@ body{
 header {
     font-size: 45px;
     text-align: center;
+    font-family: "Meddon", cursive;
 }
 
 .chamada_texto{
