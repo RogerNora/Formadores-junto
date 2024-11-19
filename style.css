@@ -1,6 +1,7 @@
 body{
     color: darkgoldenrod;
     background-color: black;
+    font-family: sans-serif;
 }
 .chamada{
     background-image: url("fundo estrela.png");
