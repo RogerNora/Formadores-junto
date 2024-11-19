@@ -9,6 +9,8 @@ section{
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 header {
