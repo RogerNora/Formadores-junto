@@ -26,6 +26,11 @@ header {
 img{
     width: 200px;
     height: 266px;
+    opacity: 0.6;
+}
+img:hover{
+    opacity: 1.0;
+    border: solid 2px white;
 }
 
 .chamada_video{
